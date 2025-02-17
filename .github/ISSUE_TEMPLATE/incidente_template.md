@@ -1,11 +1,10 @@
 ---
 name: Registro de incidente
 about: Utilize este template para informar que houve um incidente relacionado com este repositório.
-title: "Descrição geral do incidente"
-labels: incident
+title: "Incidente: [Descrição geral do incidente]"
 ---
 
-Link para o postmortem.
+[Link para o postmortem](#).
 
 ```yaml
 inicio: 2025-01-01 12:00
