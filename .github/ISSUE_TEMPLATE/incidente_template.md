@@ -9,4 +9,5 @@ title: "Incidente: [Descrição geral do incidente]"
 ```yaml
 inicio: 2025-01-01 12:00
 fim: 2025-01-01 13:00
+version: v0.0.0
 ```
